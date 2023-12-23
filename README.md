@@ -9,6 +9,6 @@
     <img src="https://img.shields.io/youtube/channel/subscribers/UCzIcAjqG546G2OF08i4zbkw?style=for-the-badge&logo=youtube&label=YouTube" />
   </a>
   <a href="https://kristofferk.com/newsletter">
-    <img src="https://img.shields.io/badge/Newsletter-1K-orange?label=Newsletter&logo=mail&for-the-badge" />
+    <img src="https://img.shields.io/badge/Newsletter-1K-orange?label=Newsletter&logo=mail&style=for-the-badge" />
   </a>
 </p>
