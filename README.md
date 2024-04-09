@@ -1,6 +1,7 @@
 <h2 align="center">Hi, there 👋</h2>
 
 <p align="center">I'm Kristoffer Kay<br/> A Computer Science student learning to code.</p>
+<p align="center">Feel free to browse my portfolio. I have pinned all my newest projects.
 <p align="center">
   <a href="http://twitter.com/KristofferKay">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FKristofferKay&style=for-the-badge&logo=x&label=Twitter" />
